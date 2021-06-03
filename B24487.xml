@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Humble remonstrance and complaint of many thousands of poore distressed prisoners in the prisons in and about the citie of London committed for debt and other uncapitall offences wherein is plainly declared the insufferable abuses both in fees and other exactions inflicted on poore prisoners by jaylors and such other instruments of law though not of justice : presented to the consideration of the high court of Parliament.</title>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24487</idno><idno type="EEBO-CITATION">12124269</idno>
+  <idno type="VID">197019</idno>
+  <idno type="EEBO-PROQUEST">2240951922</idno>
+  
+            <idno type="STC">Wing H3603</idno>
+            <idno type="OCLC">12124269</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24487)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197019)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 242:E88, no 8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Humble remonstrance and complaint of many thousands of poore distressed prisoners in the prisons in and about the citie of London committed for debt and other uncapitall offences wherein is plainly declared the insufferable abuses both in fees and other exactions inflicted on poore prisoners by jaylors and such other instruments of law though not of justice : presented to the consideration of the high court of Parliament.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>by John Gibson,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>Febr. 3, 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Prisons --  England --  London.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197019:1"/>
+            <p>The humble REMONSTRANCE AND COMPLAINT OF Many thousands of poore distressed Prisoners in the prisons in and about the Citie of <hi>London;</hi> committed for debt, and other uncapitall offences.</p>
+            <p>Wherein is plainly declared the in<g ref="char:EOLhyphen"/>sufferable abuses both in fees and other exa<g ref="char:EOLhyphen"/>ctions inflicted on poore Prisoners, by Jaylors and such other instruments of Law, though not of Justice.</p>
+            <p>Presented to the consideration of the High Court of PARLIAMENT.</p>
+            <q>
+               <l>Potiore metallis</l>
+               <l>Libertate caremus.</l>
+            </q>
+            <p>Printed at <hi>London</hi> for <hi>John Gibson. Febr.</hi> 3. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:197019:2"/>
+            <pb n="3" facs="tcp:197019:2"/>
+            <head>THE Humble Remonstrance and Com<g ref="char:EOLhyphen"/>plaint of many thousands of poore distressed Prisoners in and about the Citie of <hi>London;</hi> committed for debt and other uncapitall offences.</head>
+            <p>
+               <seg rend="decorInit">S</seg>O many (Right Honourable and Noble Dispencers of equitie and justice, you the Illustrious Members of both Houses of Parliament) are the grievances which we poore Prisoners, in the severall Gaols of the <hi>Fleet, Kings Bench, Marshalsey, Gate-house, New-gate, Lud-gate,</hi> and both the <hi>Counters,</hi> and other prisons in and about the Citie of <hi>London,</hi> doe sustaine in our durance by the insufferable in<g ref="char:EOLhyphen"/>solence and severitie of Officers, that in this happie time of Parliament, wherein your judicious eares are open to all complaints, wee who are only bereaved of our libertie by our mis-fortunes not malefactions; such as for debt and suretiship, and by commitment are here Captives, thought our selves ingaged in charitie to our selves, and the abject wretchednesse of our sufferings, to salute your honourable wisdomes with this Remonstrance of our just complaint, ho<g ref="char:EOLhyphen"/>ping to find favour in your eyes, and a redresse for our op<g ref="char:EOLhyphen"/>pressions. But lest wee should sin too much against the pub<g ref="char:EOLhyphen"/>like profit, being too tedious in the relation of our grievan<g ref="char:EOLhyphen"/>ces, we shall without any longer Preamble descend briefly to the rehearsall of our affaires.</p>
+            <p>First then, we who are either arrested for debt, or attached
+<pb n="4" facs="tcp:197019:3"/> by command, are obnoxious to all the greedinesse and avarice of the Officers, in whose hands we are before we are con<g ref="char:EOLhyphen"/>veyed to those houses of affliction, prisons; they making lawfull prises of us, &amp; under shadow &amp; pretence of doing us favours (which men in miserie are alwayes apt to accept, ex<g ref="char:EOLhyphen"/>torting upon us more than the Jaylors themselves, making us pay insufferable rates for a small procrastination of our thraldome. First, we are to remonstrate the excessive inju<g ref="char:EOLhyphen"/>ries inflicted on us poore prisoners, by the unconscionable<g ref="char:EOLhyphen"/>nesse of Officers, those instruments of Hell the Sergeants, and far more mercilesse Marshals men; who though their Knight had the fortune to go to Heaven at <hi>Keinton</hi> battell, &amp; their new Knight <hi>Siddenham</hi> hath neither seen them, nor sworne them his servants, yet do they still assume the privi<g ref="char:EOLhyphen"/>ledge to arrest, and take fees beyond the extortion of Bawds and Brokers: your Sergeants and plump Yeomen running the same course, who are growne so licenciously valiant in these times, that on Tuesday night last in <hi>Fetter-lane,</hi> having arrested a Gentleman who obeyed their authoritie without resistance, they fell upon his man because he wore a sword, and being foure of them upon the young man, almost out him to peeces: and certainly, though the Law allowes them to detaine and arrest peoples persons, it does not patronize them to cut their throats; debt, as we take it, being neither felony nor treason; for which offences, though crimes of the highest nature, the Law priviledges not their Officers of justice to kill men before the Jurie have found them guiltie. And surely it is no point of justice, that we who are only un<g ref="char:EOLhyphen"/>fortunate undone men, should suffer worse punishment, and be in lesse safetie than publike and notorious malefactors.</p>
+            <p>Besides, which is a bitter aggravation to our just com<g ref="char:EOLhyphen"/>plaint, when we are once committed to prison, against the custome of all other Nations, who restraine men by durance for debt, only for a yeare and a day, to try it in that time they can work meanes for their libertie, and satisfie their debt, and then finding them impossibilited of paying, they are dischar<g ref="char:EOLhyphen"/>ged,
+<pb n="5" facs="tcp:197019:3"/> their Creditors even paying their fees, if they be una<g ref="char:EOLhyphen"/>ble. We are here imprisoned past hope of release, if wee cannot discharge to the utmost farthing our debts, our wives, children, and families, in the meane time being betrayed to all the miseries of penurie and want, wee who should get their livings by our occupations, trades, and other industri<g ref="char:EOLhyphen"/>ous meanes, being deprived by our want of freedome, of affording them any succours, our debts by our enthralment being never the nearer paid, but the Creditours cruelty must be satisfied with our carkasses, which certainly some of those avaritious wretches more desire than their money; for otherwise they would afford us libertie, that by it we might endevour in our vocations to give them some satisfaction, which here we can never doe, being utterly dis-inabled for getting a farthing any way, but forced to live either on the almes of good people, or out of the poore remainder of our ruined estates.</p>
+            <p>Besides, we are no way secure from daily running into debts: the extraordinary rent of our chambers in prison sur<g ref="char:EOLhyphen"/>passing all the usury and brokage in the world; fifty, thirty, twenty, ten, and eight pounds <hi>per annum,</hi> being an ordinary rent for a chamber which a man can scarce turne himselfe in: and we do verily believe, the law which was instituted for the reliefe of distressed persons, never intended they should by its execution upon them be ruined past all redemp<g ref="char:EOLhyphen"/>tion; for a lamentable case it is, that a man who shall be arrested for some triviall debt of forty or fifty shillings, shall be compelled to lie in prison there, till his very chamber rent amount to thrice the value of his debt, and that to be estee<g ref="char:EOLhyphen"/>med as due as the principall, there being no hope of liber<g ref="char:EOLhyphen"/>ty till the utmost peny of our rack'd and injust fees be paid to the mercilesse Jaylour and his cruell Officers, who have no sense of compunction in them, nor will descend to the least mitigation of their exactions; so that wee may truly and confidently affirme, there are as many men, very neere, that are condemned to perpetuall imprisonment for their
+<pb n="6" facs="tcp:197019:4"/> fees, as suffer that misery for their debts; wee are besides used with no more respect then if we were <hi>Turks,</hi> or persons condemned to the slavery of the gallies, the cruell and im<g ref="char:EOLhyphen"/>placable Jaylors, being, for the most part, men of austere and inhumane conditions, such as are fitter to keepe wild Beasts in Cages, or have command over the Beares then tyrannize over men. These fellowes, no longer then wee are able to feed their greedy humours with money, wine, and the like presents, never permit us to enjoy one minute of quietnesse, but are still reviling us with the termes of beggerly and bankrupt Rogues and Rascals, threatning us with the ter<g ref="char:EOLhyphen"/>ror of the hole and dungeon, nay, even with fetters them<g ref="char:EOLhyphen"/>selves; and if these be fit usages for honest and Christian men, let any charitable persons be indifferent judges, and but make it their owne case, what an affliction it is to any man to be deprived of all the blessings which nature and for<g ref="char:EOLhyphen"/>tune hath bestowed upon him, to be bereaved of the bene<g ref="char:EOLhyphen"/>fit which Beasts enjoy, to walke abroad; to be bereaved of the society of his friends, kindred and acquaintance, and cir<g ref="char:EOLhyphen"/>cumscribed to one filthy stinking place; confined to the nar<g ref="char:EOLhyphen"/>row limits of a prison where wee scarce ever converse with ought but our owne miseries; heare nothing but the clocke that tells our woes, our dayes and nights being both, as it were, produced at once, and twins in misery; nor all these afflictions doe not terminate or conclude our sufferings, the servants to the Jaylors being more insufferably tyrannicall then their Masters; the fat Turne-keyes, and drunken Por<g ref="char:EOLhyphen"/>ters, and the like, ministers of incivility and barbarisme, tri<g ref="char:EOLhyphen"/>umphing and insulting over prisoners of the best quality, Genltemen that formerly would have disdained to have con<g ref="char:EOLhyphen"/>versed with fellows of that abject quality, being glad to stand cap in hand to the rascally companions, who Lord it over them with an insolent licence, making them pay and pray too for what they have, and glad they can get it, both by their money and faire perswasions; such is the insuffera<g ref="char:EOLhyphen"/>ble condition of our thraldome, that if a cunning Painter were
+<pb n="7" facs="tcp:197019:4"/> to delineate a locall hell, he need goe no further for a lively president then to one of these divellish prisons, which so apt<g ref="char:EOLhyphen"/>ly resembles it in all its attributes: as stench, horror and darknesse, the narrownesse of the roomes, and their unclean<g ref="char:EOLhyphen"/>nesse, being able to infect and suffocate peoples spirits who have beene inured to fresh and open ayre; these miseries, like s<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me, increasing by going on, still growing more intol<g ref="char:EOLhyphen"/>lerable, being bettered daily into worse; so that if the <hi>Isra<g ref="char:EOLhyphen"/>elites</hi> in <hi>Egypt</hi> may be said to have groaned under the heavie burthen of their oppressions there, we may justly parallel ours with their miseries, all manner of mischiefes flowing about us, and the shadow of death encompassing us round; so that if some sudden order be not taken for the mitigation of the rigour and tyranny of prisons, many a hundred of honest and able men must suffer worse deaths then the most ungracious malefactors, they dying but one death for their capitall of<g ref="char:EOLhyphen"/>fences, and we for no offence at all, dying for many moneths, weeks and yeeres a daily death: nor is this condition onely of such of us as prisoners meerly for debt, they who are in upon command from any Court of Judicature or otherwise committed, running the same misfortune, they are subject to the same contumelies and disgraces, liable to the same af<g ref="char:EOLhyphen"/>fronts and abuses, no redresse being given to their grievances, nor end to their afflictions during their imprisonment. If ei<g ref="char:EOLhyphen"/>ther any of them or us can obtaine so much favour as to goe abroad with a keeper (which is esteemed a superlative cour<g ref="char:EOLhyphen"/>tesie) we are sure to pay as many shillings as we are abroad houres, besides the excessive wages must be allowed to those Harpies our keepers, who will not permit us to stay abroad a minute longer then they are fed either with gifts, or faire promises; so that by all this former Discourse and Relation of this our complaint, you may plainly perceive, Right Ho<g ref="char:EOLhyphen"/>nourable and just reformers of all abuses in the Common<g ref="char:EOLhyphen"/>wealth, you of both the noble Houses of Parliament, how against law, equity, and conscience many thousands of poore stressed men, who have formerly beene had in very good
+<pb n="8" facs="tcp:197019:5"/> esteeme in this City, and in their owne Countries, paying scot and lot, and doing very good service to the Kingdome by their industry, are, as it were, killed alive by the daily torments for their debts, and yet their creditors never the neerer, but a greater deale farther off from their expected debts; wee being daily more and more impoverished in our estates by the cruelty and expence of our durance; our wives &amp; childen either enforced to beg their bread, or to live upon the almes of the Parishes in which they dwell.</p>
+            <p>In consideration of all which hideous and insufferable grievances, we your poore Complainants most humbly be<g ref="char:EOLhyphen"/>seech you for the honour of God, and in regard we are Chri<g ref="char:EOLhyphen"/>stian men, for our poore wives and children sake, that lan<g ref="char:EOLhyphen"/>guish and groan under our sufferings, that some way may be taken for the speedy redresse of these our heavie grievances, that our creditors may by some act of yours be ingaged to give such of us our liberties as by evident testimony of our neighbours are knowne and approved utterly unable to pay our debts, and that our Jaylors may be compelled to a more moderate and civill dealing with us, without exaction of such unconscionable and illegall fees; that Serjeants, Mar<g ref="char:EOLhyphen"/>shals men, Bayliffes and the like, may be taught to use more humanity toward their prisoners under arrest, and wee, our wives and children, as in all duty bound, shall ever pray for your tranquillity, peace and happinesse.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
